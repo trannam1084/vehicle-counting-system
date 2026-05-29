@@ -148,5 +148,3 @@ Video đầu ra (`result.mp4`) sẽ bao gồm:
 Sinh viên ngành Robot và Trí tuệ nhân tạo
 
 Trường Đại học Giao thông vận tải Hà Nội
-
-Bạn có muốn tôi bổ sung thêm hình ảnh minh họa (GIF/PNG) hoặc thay đổi chi tiết nào trong phần hướng phát triển để dự án trông phong phú hơn không?
